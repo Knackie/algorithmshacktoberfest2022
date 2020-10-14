@@ -41,6 +41,20 @@ Make some algorithms in differents languages, about the issues.
     </tr>
   </thead>
   <tbody>
+    <!-- Minimun in array -->
+    <tr>
+      <td>minimun in array</td>
+      <td><code>ar-min</code></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
     <!-- Bin sort algorithm -->
     <tr>
       <td>Bin Sort</td>
