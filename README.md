@@ -368,7 +368,7 @@ Make some algorithms in differents languages, about the issues.
       <td>Prims</td>
       <td><code>gr-prims</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
