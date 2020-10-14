@@ -7,7 +7,6 @@ def insertion_sort(input_list):
             # Swapping values
             input_list[index], input_list[index-1] = input_list[index-1], input_list[index]
             index -= 1
-        print(input_list)
     return input_list
 
 
