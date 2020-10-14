@@ -43,7 +43,7 @@ Make some algorithms in differents languages, about the issues.
   <tbody>
     <!-- Minimun in array -->
     <tr>
-      <td>minimun in array</td>
+      <td>minimum in array</td>
       <td><code>ar-min</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -52,7 +52,7 @@ Make some algorithms in differents languages, about the issues.
       <td class="text-center"></td>
       <td class="text-center">done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
     </tr>
     <!-- Bin sort algorithm -->
