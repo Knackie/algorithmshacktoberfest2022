@@ -298,7 +298,7 @@ Make some algorithms in differents languages, about the issues.
       <td>Longest Palindromic Substring</td>
       <td><code>ar-lps</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
