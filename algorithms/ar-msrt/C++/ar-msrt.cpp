@@ -53,18 +53,18 @@ void merge(int *a, int low, int high, int mid)
 }
  
 // A function to split array into two parts.
-void MergeSort(int *a, int low, int high)
+void mergeSort(int *a, int low, int high)
 {
 	int mid;
 	if (low < high)
 	{
 		mid=(low+high)/2;
 		// Split the data into two half.
-		MergeSort(a, low, mid);
-		MergeSort(a, mid+1, high);
+		mergeSort(a, low, mid);
+		mergeSort(a, mid+1, high);
  
 		// Merge them to get sorted output.
-		Merge(a, low, high, mid);
+		merge(a, low, high, mid);
 	}
 }
  
@@ -87,6 +87,6 @@ int main()
 	cout<<"\nSorted Data ";
 	for (i = 0; i < n; i++)
         cout<<"->"<<arr[i];
- 
+ 	cout<<endl;
 	return 0;
 }

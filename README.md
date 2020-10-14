@@ -73,12 +73,12 @@ Make some algorithms in differents languages, about the issues.
     <tr>
       <td>Binary Search</td>
       <td><code>ar-bsrh</code></td>
+      <td class="text-center">done</td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
