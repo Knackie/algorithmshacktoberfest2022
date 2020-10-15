@@ -284,7 +284,7 @@ Make some algorithms in differents languages, about the issues.
       <td>Longest Increasing Subsequence</td>
       <td><code>ar-lis</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
