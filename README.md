@@ -409,7 +409,7 @@ Make some algorithms in differents languages, about the issues.
     <tr>
       <td>Radix Sort</td>
       <td><code>ar-radsrt</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
