@@ -101,7 +101,7 @@ Make some algorithms in differents languages, about the issues.
     <tr>
       <td>Bubble Sort</td>
       <td><code>ar-bsrt</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
