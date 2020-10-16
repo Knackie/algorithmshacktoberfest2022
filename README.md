@@ -46,7 +46,7 @@ Make some algorithms in differents languages, about the issues.
       <td>minimum in array</td>
       <td><code>ar-min</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -102,14 +102,14 @@ Make some algorithms in differents languages, about the issues.
       <td>Bubble Sort</td>
       <td><code>ar-bsrt</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center">done</td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
     </tr>
     <!-- Coin change problem algorithm -->
     <tr>
@@ -143,8 +143,8 @@ Make some algorithms in differents languages, about the issues.
     <tr>
       <td>Dijkstra Algorithm</td>
       <td><code>gr-dij</code></td>
-      <td class="text-center">done</td>
       <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -192,7 +192,7 @@ Make some algorithms in differents languages, about the issues.
       <td class="text-center"></td>
       <td class="text-center">done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
     </tr>
     <!-- KMP algorithm -->
@@ -200,7 +200,7 @@ Make some algorithms in differents languages, about the issues.
       <td>Knuth–Morris–Pratt</td>
       <td><code>ar-kmp</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -274,7 +274,7 @@ Make some algorithms in differents languages, about the issues.
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -318,7 +318,7 @@ Make some algorithms in differents languages, about the issues.
       <td class="text-center"></td>
       <td class="text-center">done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
     </tr>
     <!-- Modular exponential algorithm -->
@@ -402,7 +402,7 @@ Make some algorithms in differents languages, about the issues.
       <td class="text-center"></td>
       <td class="text-center">done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
     </tr>
     <!-- Radix sort algorithm -->
@@ -456,7 +456,7 @@ Make some algorithms in differents languages, about the issues.
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
