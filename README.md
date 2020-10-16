@@ -143,8 +143,8 @@ Make some algorithms in differents languages, about the issues.
     <tr>
       <td>Dijkstra Algorithm</td>
       <td><code>gr-dij</code></td>
-      <td class="text-center">done</td>
       <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
