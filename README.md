@@ -270,7 +270,7 @@ Make some algorithms in differents languages, about the issues.
       <td>Longest Common Subsequence</td>
       <td><code>ar-lcs</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center">done</td>
       <td class="text-center"></td>
