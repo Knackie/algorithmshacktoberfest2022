@@ -255,7 +255,7 @@ Make some algorithms in differents languages, about the issues.
     <tr>
       <td>Linear Search</td>
       <td><code>ar-lsrh</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -466,7 +466,7 @@ Make some algorithms in differents languages, about the issues.
       <td>Sieve of Eratosthenes</td>
       <td><code>ar-soer</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
