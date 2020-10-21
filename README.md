@@ -176,7 +176,7 @@ Make some algorithms in differents languages, about the issues.
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -186,7 +186,7 @@ Make some algorithms in differents languages, about the issues.
       <td>Insertion Sort</td>
       <td><code>ar-isrt</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -255,12 +255,12 @@ Make some algorithms in differents languages, about the issues.
     <tr>
       <td>Linear Search</td>
       <td><code>ar-lsrh</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -302,7 +302,7 @@ Make some algorithms in differents languages, about the issues.
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
