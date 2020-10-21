@@ -466,7 +466,7 @@ Make some algorithms in differents languages, about the issues.
       <td>Sieve of Eratosthenes</td>
       <td><code>ar-soer</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
