@@ -353,12 +353,12 @@ Make some algorithms in differents languages, about the issues.
     <tr>
       <td>Prime Factor</td>
       <td><code>ar-prfac</code></td>
+      <td class="text-center">done</td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -470,7 +470,7 @@ Make some algorithms in differents languages, about the issues.
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
