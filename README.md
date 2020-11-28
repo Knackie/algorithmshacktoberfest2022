@@ -43,21 +43,21 @@ Make some algorithms in differents languages, about the issues.
   <tbody>
     <!-- Minimun in array -->
     <tr>
-      <td>minimum in array</td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-min">minimum in array</a></td>
       <td><code>ar-min</code></td>
-      <td class="text-center">done</td>
-      <td class="text-center">done</td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
+      <td class="text-center">Done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
-      <td class="text-center">done</td>
-      <td class="text-center">done</td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
+      <td class="text-center">Done</td>
+      <td class="text-center">Done</td>
+      <td class="text-center">Done</td>
     </tr>
     <!-- Bin sort algorithm -->
     <tr>
-      <td>Bin Sort</td>
+      <td><a href="">Bin Sort</a></td>
       <td><code>ar-binsrt</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -71,21 +71,21 @@ Make some algorithms in differents languages, about the issues.
     </tr>
     <!-- Binary search algorithm -->
     <tr>
-      <td>Binary Search</td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-bsrh">Binary Search</a></td>
       <td><code>ar-bsrh</code></td>
-      <td class="text-center">done</td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
     <!-- Breadth first search algorithm -->
     <tr>
-      <td>Breadth First Search</td>
+      <td><a href="">Breadth First Search</a></td>
       <td><code>gr-bfsrh</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -99,21 +99,21 @@ Make some algorithms in differents languages, about the issues.
     </tr>
     <!-- Bubble sort algorithm -->
     <tr>
-      <td>Bubble Sort</td>
+      <td> <a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-bsrt">Bubble Sort</a></td>
       <td><code>ar-bsrt</code></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
-      <td class="text-center">done</td>
-      <td class="text-center">done</td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
+      <td class="text-center">Done</td>
+      <td class="text-center">Done</td>
+      <td class="text-center">Done</td>
     </tr>
     <!-- Coin change problem algorithm -->
     <tr>
-      <td>Coin Change Problem</td>
+      <td><a href="">Coin Change Problem</a></td>
       <td><code>ar-cochprb</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -127,10 +127,10 @@ Make some algorithms in differents languages, about the issues.
     </tr>
     <!-- Depth first search algorithm -->
     <tr>
-      <td>Depth First Search</td>
+      <td> <a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/gr-dfsrh">Depth First Search</a></td>
       <td><code>gr-dfsrh</code></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -141,21 +141,21 @@ Make some algorithms in differents languages, about the issues.
     </tr>
     <!-- Dijkstra algorithm -->
     <tr>
-      <td>Dijkstra Algorithm</td>
+      <td> <a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/gr-dij">Dijkstra Algorithm</a></td>
       <td><code>gr-dij</code></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
     <!-- Exponentiation by squaring algorithm -->
     <tr>
-      <td>Exponentiation by Squaring</td>
+      <td><a href="">Exponentiation by Squaring</a></td>
       <td><code>ar-expsq</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -169,38 +169,38 @@ Make some algorithms in differents languages, about the issues.
     </tr>
     <!-- Heap sort algorithm -->
     <tr>
-      <td>Heap Sort</td>
+      <td> <a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-hsrt">Heap Sort</a></td>
       <td><code>ar-hsrt</code></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
     <!-- Insertion sort algorithm -->
     <tr>
-      <td>Insertion Sort</td>
+      <td> <a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-isrt">Insertion Sort</a></td>
       <td><code>ar-isrt</code></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
+      <td class="text-center">Done</td>
     </tr>
     <!-- KMP algorithm -->
     <tr>
-      <td>Knuth–Morris–Pratt</td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-kmp">Knuth-Morris-Pratt</a></td>
       <td><code>ar-kmp</code></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -211,7 +211,7 @@ Make some algorithms in differents languages, about the issues.
     </tr>
     <!-- K-NN algorithm -->
     <tr>
-      <td>K-NN</td>
+      <td><a href="">K-NN</a></td>
       <td><code>ar-knn</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -225,7 +225,7 @@ Make some algorithms in differents languages, about the issues.
     </tr>
     <!-- Largest sum contiguous sub-array algorithm -->
     <tr>
-      <td>Largest Sum Contiguous Sub-Array</td>
+      <td><a href="">Largest Sum Contiguous Sub-Array</a></td>
       <td><code>ar-lscsa</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -239,7 +239,7 @@ Make some algorithms in differents languages, about the issues.
     </tr>
     <!-- Linear regression algorithm -->
     <tr>
-      <td>Linear Regression</td>
+      <td><a href="">Linear Regression</a></td>
       <td><code>ar-lreg</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -253,49 +253,49 @@ Make some algorithms in differents languages, about the issues.
     </tr>
     <!-- Linear search algorithm -->
     <tr>
-      <td>Linear Search</td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-lsrh">Linear Search</a></td>
       <td><code>ar-lsrh</code></td>
-      <td class="text-center">done</td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
     <!-- Longest common subsequence algorithm -->
     <tr>
-      <td>Longest Common Subsequence</td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-lcs">Longest Common Subsequence</a></td>
       <td><code>ar-lcs</code></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
     <!-- Longest increasing subsequence algorithm -->
     <tr>
-      <td>Longest Increasing Subsequence</td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-lis">Longest Increasing Subsequence</a></td>
       <td><code>ar-lis</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
     <!-- Longest palindromic substring algorithm -->
     <tr>
-      <td>Longest Palindromic Substring</td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-lps">Longest Palindromic Substring</a></td>
       <td><code>ar-lps</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -309,21 +309,21 @@ Make some algorithms in differents languages, about the issues.
     </tr>
     <!-- Merge sort algorithm -->
     <tr>
-      <td>Merge Sort</td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-msrt">Merge Sort</a></td>
       <td><code>ar-msrt</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
     </tr>
     <!-- Modular exponential algorithm -->
     <tr>
-      <td>Modular Exponential</td>
+      <td><a href="">Modular Exponential</a></td>
       <td><code>ar-mexp</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -337,10 +337,10 @@ Make some algorithms in differents languages, about the issues.
     </tr>
     <!-- Naive search algorithm -->
     <tr>
-      <td>Naive Search</td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-nsrh">Naive Search</a></td>
       <td><code>ar-nsrh</code></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -351,35 +351,35 @@ Make some algorithms in differents languages, about the issues.
     </tr>
     <!-- Prime factor algorithm -->
     <tr>
-      <td>Prime Factor</td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-prfac">Prime Factor</a></td>
       <td><code>ar-prfac</code></td>
-      <td class="text-center">done</td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
     <!-- Prims algorithm -->
     <tr>
-      <td>Prims</td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/gr-prims">Prims</a></td>
       <td><code>gr-prims</code></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
     <!-- Quick select algorithm -->
     <tr>
-      <td>Quick Select</td>
+      <td><a href="">Quick Select</a></td>
       <td><code>ar-qsel</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -393,23 +393,23 @@ Make some algorithms in differents languages, about the issues.
     </tr>
     <!-- Quick sort algorithm -->
     <tr>
-      <td>Quick Sort</td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-qsrt">Quick Sort</a></td>
       <td><code>ar-qsrt</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
     </tr>
     <!-- Radix sort algorithm -->
     <tr>
-      <td>Radix Sort</td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-radsrt">Radix Sort</a></td>
       <td><code>ar-radsrt</code></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -421,7 +421,7 @@ Make some algorithms in differents languages, about the issues.
     </tr>
     <!-- Rod cutting problem -->
     <tr>
-      <td>Rod Cutting Problem</td>
+      <td><a href="">Rod Cutting Problem</a></td>
       <td><code>ar-rcprb</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -435,49 +435,49 @@ Make some algorithms in differents languages, about the issues.
     </tr>
     <!-- Selection sort algorithm -->
     <tr>
-      <td>Selection Sort</td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-ssrt">Selection Sort</a></td>
       <td><code>ar-ssrt</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
+      <td class="text-center">Done</td>
     </tr>
     <!-- Shell sort algorithm -->
     <tr>
-      <td>Shell Sort</td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-shsrt">Shell Sort</a></td>
       <td><code>ar-shsrt</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
     <!-- Sieve of eratosthenes algorithm -->
     <tr>
-      <td>Sieve of Eratosthenes</td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-soer">Sieve of Erastosthenes</a></td>
       <td><code>ar-soer</code></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
     <!-- Sleep sort algorithm -->
     <tr>
-      <td>Sleep Sort</td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-slpsrt">Sleep Sort</a></td>
       <td><code>ar-slpsrt</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -486,7 +486,7 @@ Make some algorithms in differents languages, about the issues.
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
     </tr>
   </tbody>
