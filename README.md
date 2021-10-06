@@ -1,6 +1,10 @@
 # algorithms hacktoberfest2020
 
 Make some algorithms in differents languages, about the issues.
+How it's work ?
+- Create some issues for one algorithm.
+- Fork the repos, make it and create a Pull Request
+- Add your name in contributor
 
 <table class="table table-bordered table-striped">
   <thead class="thead-dark">
