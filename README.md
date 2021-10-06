@@ -1,4 +1,4 @@
-# algorithms hacktoberfest2020
+# algorithms hacktoberfest2021
 
 Make some algorithms in differents languages, about the issues.
 How it's work ?
