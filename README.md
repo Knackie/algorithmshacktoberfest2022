@@ -61,7 +61,7 @@ How it's work ?
     </tr>
     <!-- Bin sort algorithm -->
     <tr>
-      <td><a href="">Bin Sort</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-binsrt">Bin Sort</a></td>
       <td><code>ar-binsrt</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -75,7 +75,7 @@ How it's work ?
     </tr>
     <!-- Binary search algorithm -->
     <tr>
-      <td><a href="">Breadth First Search</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/gr-bfsrh">Breadth First Search</a></td>
       <td><code>gr-bfsrh</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -103,7 +103,7 @@ How it's work ?
     </tr>
     <!-- Coin change problem algorithm -->
     <tr>
-      <td><a href="">Coin Change Problem</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-cochprb">Coin Change Problem</a></td>
       <td><code>ar-cochprb</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -145,7 +145,7 @@ How it's work ?
     </tr>
     <!-- Exponentiation by squaring algorithm -->
     <tr>
-      <td><a href="">Exponentiation by Squaring</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-expsq">Exponentiation by Squaring</a></td>
       <td><code>ar-expsq</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -201,7 +201,7 @@ How it's work ?
     </tr>
     <!-- K-NN algorithm -->
     <tr>
-      <td><a href="">K-NN</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-knn">K-NN</a></td>
       <td><code>ar-knn</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -215,7 +215,7 @@ How it's work ?
     </tr>
     <!-- Largest sum contiguous sub-array algorithm -->
     <tr>
-      <td><a href="">Largest Sum Contiguous Sub-Array</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-lscsa">Largest Sum Contiguous Sub-Array</a></td>
       <td><code>ar-lscsa</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -299,7 +299,7 @@ How it's work ?
     </tr>
     <!-- Modular exponential algorithm -->
     <tr>
-      <td><a href="">Modular Exponential</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-mexp">Modular Exponential</a></td>
       <td><code>ar-mexp</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -355,7 +355,7 @@ How it's work ?
     </tr>
     <!-- Quick select algorithm -->
     <tr>
-      <td><a href="">Quick Select</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-qsel">Quick Select</a></td>
       <td><code>ar-qsel</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -397,7 +397,7 @@ How it's work ?
     </tr>
     <!-- Rod cutting problem -->
     <tr>
-      <td><a href="">Rod Cutting Problem</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-rcprb">Rod Cutting Problem</a></td>
       <td><code>ar-rcprb</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
