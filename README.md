@@ -75,20 +75,6 @@ How it's work ?
     </tr>
     <!-- Binary search algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-bsrh">Binary Search</a></td>
-      <td><code>ar-bsrh</code></td>
-      <td class="text-center">Done</td>
-      <td class="text-center">Done</td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
-      <td class="text-center">Done</td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
-    </tr>
-    <!-- Breadth first search algorithm -->
-    <tr>
       <td><a href="">Breadth First Search</a></td>
       <td><code>gr-bfsrh</code></td>
       <td class="text-center"></td>
@@ -242,20 +228,6 @@ How it's work ?
       <td class="text-center"></td>
     </tr>
     <!-- Linear regression algorithm -->
-    <tr>
-      <td><a href="">Linear Regression</a></td>
-      <td><code>ar-lreg</code></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
-    </tr>
-    <!-- Linear search algorithm -->
     <tr>
       <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-lsrh">Linear Search</a></td>
       <td><code>ar-lsrh</code></td>
