@@ -173,7 +173,7 @@ How it's work ?
     </tr>
     <!-- Heap sort algorithm -->
     <tr>
-      <td> <a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-hsrt">Heap Sort</a></td>
+      <td> <a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-hsrt">Heap Sort</a></td>
       <td><code>ar-hsrt</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -187,7 +187,7 @@ How it's work ?
     </tr>
     <!-- Insertion sort algorithm -->
     <tr>
-      <td> <a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-isrt">Insertion Sort</a></td>
+      <td> <a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-isrt">Insertion Sort</a></td>
       <td><code>ar-isrt</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -257,7 +257,7 @@ How it's work ?
     </tr>
     <!-- Linear search algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-lsrh">Linear Search</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-lsrh">Linear Search</a></td>
       <td><code>ar-lsrh</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
@@ -271,7 +271,7 @@ How it's work ?
     </tr>
     <!-- Longest common subsequence algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-lcs">Longest Common Subsequence</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-lcs">Longest Common Subsequence</a></td>
       <td><code>ar-lcs</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -285,7 +285,7 @@ How it's work ?
     </tr>
     <!-- Longest increasing subsequence algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-lis">Longest Increasing Subsequence</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-lis">Longest Increasing Subsequence</a></td>
       <td><code>ar-lis</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -299,7 +299,7 @@ How it's work ?
     </tr>
     <!-- Longest palindromic substring algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-lps">Longest Palindromic Substring</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-lps">Longest Palindromic Substring</a></td>
       <td><code>ar-lps</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -313,7 +313,7 @@ How it's work ?
     </tr>
     <!-- Merge sort algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-msrt">Merge Sort</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-msrt">Merge Sort</a></td>
       <td><code>ar-msrt</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -341,7 +341,7 @@ How it's work ?
     </tr>
     <!-- Naive search algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-nsrh">Naive Search</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-nsrh">Naive Search</a></td>
       <td><code>ar-nsrh</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -355,7 +355,7 @@ How it's work ?
     </tr>
     <!-- Prime factor algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-prfac">Prime Factor</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-prfac">Prime Factor</a></td>
       <td><code>ar-prfac</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
@@ -369,7 +369,7 @@ How it's work ?
     </tr>
     <!-- Prims algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/gr-prims">Prims</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/gr-prims">Prims</a></td>
       <td><code>gr-prims</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -397,7 +397,7 @@ How it's work ?
     </tr>
     <!-- Quick sort algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-qsrt">Quick Sort</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-qsrt">Quick Sort</a></td>
       <td><code>ar-qsrt</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -411,7 +411,7 @@ How it's work ?
     </tr>
     <!-- Radix sort algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-radsrt">Radix Sort</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-radsrt">Radix Sort</a></td>
       <td><code>ar-radsrt</code></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
@@ -439,7 +439,7 @@ How it's work ?
     </tr>
     <!-- Selection sort algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-ssrt">Selection Sort</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-ssrt">Selection Sort</a></td>
       <td><code>ar-ssrt</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -467,7 +467,7 @@ How it's work ?
     </tr>
     <!-- Sieve of eratosthenes algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-soer">Sieve of Erastosthenes</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-soer">Sieve of Erastosthenes</a></td>
       <td><code>ar-soer</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
