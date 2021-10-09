@@ -414,7 +414,7 @@ How it's work ?
       <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-ssrt">Selection Sort</a></td>
       <td><code>ar-ssrt</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -463,6 +463,20 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
+    </tr>
+     <!-- Count sort algorithm -->
+    <tr>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-csrt">Count Sort</a></td>
+      <td><code>ar-csrt</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
   </tbody>
