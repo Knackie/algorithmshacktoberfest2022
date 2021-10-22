@@ -32,4 +32,4 @@ int main()
 	cout << count(arr, m, n);
 	return 0;
 }
-
+//c++ using dynamic programming is used in this code
