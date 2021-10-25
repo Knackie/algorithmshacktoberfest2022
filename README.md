@@ -456,7 +456,7 @@ How it's work ?
       <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-slpsrt">Sleep Sort</a></td>
       <td><code>ar-slpsrt</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
