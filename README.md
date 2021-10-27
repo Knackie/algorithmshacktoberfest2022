@@ -185,6 +185,20 @@ How it's work ?
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
     </tr>
+     <!-- Kadane's Algorithm -->
+    <tr>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-kdn">Kadane's Algorithm</a></td>
+      <td><code>ar-kdn</code></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
     <!-- KMP algorithm -->
     <tr>
       <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-kmp">Knuth-Morris-Pratt</a></td>
