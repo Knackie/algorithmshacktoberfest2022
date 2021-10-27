@@ -493,5 +493,17 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+     <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/blob/main/algorithms/z_function.cpp">Count Sort</a></td>
+      <td><code>Z function</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
   </tbody>
 </table>
