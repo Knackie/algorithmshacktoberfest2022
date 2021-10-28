@@ -42,7 +42,7 @@ How it's work ?
       </th>
       <th scope="col" class="text-center">
         <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="20">
-      </th>            
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -393,7 +393,7 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
     </tr>
     <!-- Quick sort algorithm -->
