@@ -66,7 +66,7 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
@@ -78,7 +78,7 @@ How it's work ?
       <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/gr-bfsrh">Breadth First Search</a></td>
       <td><code>gr-bfsrh</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -94,7 +94,7 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
@@ -110,7 +110,7 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -178,12 +178,26 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center">Done</td>
+    </tr>
+     <!-- Kadane's Algorithm -->
+    <tr>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-kdn">Kadane's Algorithm</a></td>
+      <td><code>ar-kdn</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
-      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- KMP algorithm -->
     <tr>
@@ -400,7 +414,7 @@ How it's work ?
       <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-radsrt">Radix Sort</a></td>
       <td><code>ar-radsrt</code></td>
       <td class="text-center">Done</td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -489,6 +503,45 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
+     <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/blob/main/algorithms/z_function.cpp">Z function</a></td>
+      <td><code>Z function</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
+     <!-- Red blacktree -->
+     <tr>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/blob/main/algorithms/Red-blacktree-Algorithm/">Red Blacktree</a></td>
+      <td><code>ar-binsrt</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/blob/main/algorithms/Rrock_paper_scissor/">Rock Paper Scissor</a></td>
+      <td><code>ar-binsrt</code></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
