@@ -190,7 +190,7 @@ How it's work ?
       <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-kdn">Kadane's Algorithm</a></td>
       <td><code>ar-kdn</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
