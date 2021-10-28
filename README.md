@@ -2,6 +2,7 @@
 
 Make some algorithms in differents languages, about the issues.
 How it's work ?
+
 - Create some issues for one algorithm.
 - Fork the repos, make it and create a Pull Request
 - Add your name in contributor
@@ -47,7 +48,7 @@ How it's work ?
   <tbody>
     <!-- Minimun in array -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-min">minimum in array</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-min">Minimum in array</a></td>
       <td><code>ar-min</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
@@ -521,8 +522,10 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+    <!-- Z function -->
+    <tr>
      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/blob/main/algorithms/z_function.cpp">Z function</a></td>
-      <td><code>Z function</code></td>
+      <td><code>ar-zfnc</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
@@ -533,10 +536,10 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
-     <!-- Red blacktree -->
-     <tr>
+    <!-- Red blacktree -->
+    <tr>
       <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/blob/main/algorithms/Red-blacktree-Algorithm/">Red Blacktree</a></td>
-      <td><code>ar-binsrt</code></td>
+      <td><code>ar-rbtree</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
@@ -547,9 +550,10 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+    <!-- Rock Paper Scissor -->
     <tr>
       <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/blob/main/algorithms/Rrock_paper_scissor/">Rock Paper Scissor</a></td>
-      <td><code>ar-binsrt</code></td>
+      <td><code>ar-rpprscs</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -560,10 +564,10 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
-<!--     String Hashing Algorithm -->
-    </tr>
+    <!-- String Hashing Algorithm -->
+    <tr>
      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/blob/main/algorithms/hashing.cpp">String Hashing</a></td>
-      <td><code>String Hashing</code></td>
+      <td><code>ar-strhsg</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
