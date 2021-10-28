@@ -41,7 +41,7 @@ How it's work ?
       </th>
       <th scope="col" class="text-center">
         <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="20">
-      </th>            
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -386,7 +386,7 @@ How it's work ?
       <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-qsel">Quick Select</a></td>
       <td><code>ar-qsel</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Dones</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
