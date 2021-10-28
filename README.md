@@ -1,5 +1,4 @@
-
-   algorithms hacktoberfest2021
+# algorithms hacktoberfest2021
 
 Make some algorithms in differents languages, about the issues.
 How it's work ?
@@ -92,7 +91,7 @@ How it's work ?
     <tr>
       <td> <a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-bsrt">Bubble Sort</a></td>
       <td><code>ar-bsrt</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -176,7 +175,7 @@ How it's work ?
     <tr>
       <td> <a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-isrt">Insertion Sort</a></td>
       <td><code>ar-isrt</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -190,7 +189,7 @@ How it's work ?
     <tr>
       <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-kdn">Kadane's Algorithm</a></td>
       <td><code>ar-kdn</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -249,7 +248,7 @@ How it's work ?
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
@@ -291,7 +290,7 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -305,7 +304,7 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
@@ -361,7 +360,7 @@ How it's work ?
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
@@ -442,10 +441,10 @@ How it's work ?
     <tr>
       <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-ssrt">Selection Sort</a></td>
       <td><code>ar-ssrt</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
@@ -537,12 +536,26 @@ How it's work ?
     <tr>
       <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/blob/main/algorithms/Rrock_paper_scissor/">Rock Paper Scissor</a></td>
       <td><code>ar-binsrt</code></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center">Done</td>
-     <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+    </tr>
+<!--     String Hashing Algorithm -->
+    </tr>
+     <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/blob/main/algorithms/hashing.cpp">String Hashing</a></td>
+      <td><code>String Hashing</code></td>
       <td class="text-center">Done</td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
