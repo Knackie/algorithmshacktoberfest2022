@@ -546,5 +546,19 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+<!--     String Hashing Algorithm -->
+    </tr>
+     <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/blob/main/algorithms/hashing.cpp">String Hashing</a></td>
+      <td><code>String Hashing</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
   </tbody>
 </table>
