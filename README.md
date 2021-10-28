@@ -519,5 +519,19 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+     <!-- Red blacktree -->
+     <tr>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/blob/main/algorithms/Red-blacktree-Algorithm/">Z function</a></td>
+      <td><code>ar-binsrt</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
   </tbody>
 </table>
