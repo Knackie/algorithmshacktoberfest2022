@@ -533,5 +533,18 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/blob/main/algorithms/Rrock_paper_scissor/">Rock Paper Scissor</a></td>
+      <td><code>ar-binsrt</code></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
   </tbody>
 </table>
