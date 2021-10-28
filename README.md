@@ -493,6 +493,20 @@ How it's work ?
       <td class="text-center">Done</td>
       <td class="text-center"></td>
     </tr>
+        <!-- Spiral Matrix -->
+    <tr>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-spmat">Spiral Matrix</a></td>
+      <td><code>ar-spmat</code></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
      <!-- Count sort algorithm -->
     <tr>
       <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-csrt">Count Sort</a></td>
