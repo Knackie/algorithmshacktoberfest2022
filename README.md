@@ -592,5 +592,19 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+        <!-- Top View of binary tree -->
+    <tr>
+     <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-tvwbintr">Top View Binary Tree</a></td>
+      <td><code>ar-tvwbintr</code></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
   </tbody>
 </table>
