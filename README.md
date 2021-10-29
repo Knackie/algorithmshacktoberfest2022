@@ -7,6 +7,8 @@ How it's work ?
 - Fork the repos, make it and create a Pull Request
 - Add your name in contributor
 
+**Drop a ⭐ on the Github repository**
+
 <table class="table table-bordered table-striped">
   <thead class="thead-dark">
    <table class="table table-bordered table-striped">
