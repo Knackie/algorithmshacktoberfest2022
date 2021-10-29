@@ -150,8 +150,8 @@ How it's work ?
     <tr>
       <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-expsq">Exponentiation by Squaring</a></td>
       <td><code>ar-expsq</code></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
