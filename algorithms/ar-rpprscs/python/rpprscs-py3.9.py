@@ -11,7 +11,7 @@ while True:
 
     # Get Users Choice.
     while True:
-        userChoice = input("R | P | S >> ")
+        userChoice = input("R | P | S >> ").upper()
 
         if userChoice.upper() in choices:
             break
@@ -23,7 +23,7 @@ while True:
 
     # Check userChoice against compChoice.
     compare = (userChoice, compChoice)
-    
+
     if compare[0] == compare[1]:
         print("Tie!")
     elif compare in [('R', 'S'), ('P', 'R'), ('S', 'P')]:
