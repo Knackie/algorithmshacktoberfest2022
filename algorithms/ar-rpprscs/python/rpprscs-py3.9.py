@@ -19,16 +19,14 @@ while True:
     # Get Computers Choice.
     compChoice = choices[random.randint(0, 2)]
 
-    print(f"You picked {userChoice} and the Computer picked {compChoice}!")
+    print(f"You picked {userChoice} and the Computer picked {compChoice}!\n")
 
     # Check userChoice against compChoice.
-    if userChoice == compChoice:
+    compare = (userChoice, compChoice)
+    
+    if compare[0] == compare[1]:
         print("Tie!")
-    elif userChoice == "R" and compChoice == "S":
-        print("Rock beats Scissors, you win!")
-    elif userChoice == "P" and compChoice == "R":
-        print("Paper beats Rock, you won!")
-    elif userChoice == "S" and compChoice == "P":
-        print("Scissors beats Paper, you win!")
-    else:
-        print("Sorry, computer wins!")
+    elif compare in [('R', 'S'), ('P', 'R'), ('S', 'P')]:
+        print("You win!")
+    elif compare in [('R', 'P'), ('P', 'S'), ('S', 'R')]:
+        print("Sorry, you lose!")
