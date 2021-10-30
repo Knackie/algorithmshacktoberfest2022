@@ -49,7 +49,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
   <tbody>
     <!-- Minimun in array -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-min">Minimum in array</a></td>
+      <td><a href="./algorithms/ar-min">Minimum in array</a></td>
       <td><code>ar-min</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
@@ -63,9 +63,9 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Bin sort algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-binsrt">Bin Sort</a></td>
+      <td><a href="./algorithms/ar-binsrt">Bin Sort</a></td>
       <td><code>ar-binsrt</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -77,7 +77,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Binary search algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/gr-bfsrh">Breadth First Search</a></td>
+      <td><a href="./algorithms/gr-bfsrh">Breadth First Search</a></td>
       <td><code>gr-bfsrh</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -89,9 +89,23 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+    <!-- Bogosort algorithm -->
+    <tr>
+      <td><a href="./algorithms/gr-bfsrh">Bogosort</a></td>
+      <td><code>ar-bogosort</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
     <!-- Bubble sort algorithm -->
     <tr>
-      <td> <a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-bsrt">Bubble Sort</a></td>
+      <td> <a href="./algorithms/ar-bsrt">Bubble Sort</a></td>
       <td><code>ar-bsrt</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
@@ -105,7 +119,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Coin change problem algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-cochprb">Coin Change Problem</a></td>
+      <td><a href="./algorithms/ar-cochprb">Coin Change Problem</a></td>
       <td><code>ar-cochprb</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -119,7 +133,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Depth first search algorithm -->
     <tr>
-      <td> <a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/gr-dfsrh">Depth First Search</a></td>
+      <td> <a href="./algorithms/gr-dfsrh">Depth First Search</a></td>
       <td><code>gr-dfsrh</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -133,7 +147,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Dijkstra algorithm -->
     <tr>
-      <td> <a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/gr-dij">Dijkstra Algorithm</a></td>
+      <td> <a href="./algorithms/gr-dij">Dijkstra Algorithm</a></td>
       <td><code>gr-dij</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -147,7 +161,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Exponentiation by squaring algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-expsq">Exponentiation by Squaring</a></td>
+      <td><a href="./algorithms/ar-expsq">Exponentiation by Squaring</a></td>
       <td><code>ar-expsq</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
@@ -161,7 +175,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Heap sort algorithm -->
     <tr>
-      <td> <a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-hsrt">Heap Sort</a></td>
+      <td> <a href="./algorithms/ar-hsrt">Heap Sort</a></td>
       <td><code>ar-hsrt</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -175,7 +189,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Insertion sort algorithm -->
     <tr>
-      <td> <a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-isrt">Insertion Sort</a></td>
+      <td> <a href="./algorithms/ar-isrt">Insertion Sort</a></td>
       <td><code>ar-isrt</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
@@ -189,7 +203,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
      <!-- Kadane's Algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-kdn">Kadane's Algorithm</a></td>
+      <td><a href="./algorithms/ar-kdn">Kadane's Algorithm</a></td>
       <td><code>ar-kdn</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
@@ -203,7 +217,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- KMP algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-kmp">Knuth-Morris-Pratt</a></td>
+      <td><a href="./algorithms/ar-kmp">Knuth-Morris-Pratt</a></td>
       <td><code>ar-kmp</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -217,7 +231,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- K-NN algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-knn">K-NN</a></td>
+      <td><a href="./algorithms/ar-knn">K-NN</a></td>
       <td><code>ar-knn</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -231,7 +245,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Largest sum contiguous sub-array algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-lscsa">Largest Sum Contiguous Sub-Array</a></td>
+      <td><a href="./algorithms/ar-lscsa">Largest Sum Contiguous Sub-Array</a></td>
       <td><code>ar-lscsa</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -245,7 +259,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Linear regression algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-lsrh">Linear Search</a></td>
+      <td><a href="./algorithms/ar-lsrh">Linear Search</a></td>
       <td><code>ar-lsrh</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
@@ -254,12 +268,12 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
     </tr>
     <!-- Longest common subsequence algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-lcs">Longest Common Subsequence</a></td>
+      <td><a href="./algorithms/ar-lcs">Longest Common Subsequence</a></td>
       <td><code>ar-lcs</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -273,7 +287,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Longest increasing subsequence algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-lis">Longest Increasing Subsequence</a></td>
+      <td><a href="./algorithms/ar-lis">Longest Increasing Subsequence</a></td>
       <td><code>ar-lis</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -287,7 +301,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Longest palindromic substring algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-lps">Longest Palindromic Substring</a></td>
+      <td><a href="./algorithms/ar-lps">Longest Palindromic Substring</a></td>
       <td><code>ar-lps</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -301,7 +315,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Merge sort algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-msrt">Merge Sort</a></td>
+      <td><a href="./algorithms/ar-msrt">Merge Sort</a></td>
       <td><code>ar-msrt</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
@@ -315,7 +329,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Modular exponential algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-mexp">Modular Exponential</a></td>
+      <td><a href="./algorithms/ar-mexp">Modular Exponential</a></td>
       <td><code>ar-mexp</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -329,7 +343,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Naive search algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-nsrh">Naive Search</a></td>
+      <td><a href="./algorithms/ar-nsrh">Naive Search</a></td>
       <td><code>ar-nsrh</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -343,7 +357,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Pigeonhole Sort algorithm -->
      <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-nsrh">Naive Search</a></td>
+      <td><a href="./algorithms/ar-nsrh">Naive Search</a></td>
       <td><code>ar-nsrh</code></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
@@ -357,7 +371,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Prime factor algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-prfac">Prime Factor</a></td>
+      <td><a href="./algorithms/ar-prfac">Prime Factor</a></td>
       <td><code>ar-prfac</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
@@ -371,7 +385,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Prims algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/gr-prims">Prims</a></td>
+      <td><a href="./algorithms/gr-prims">Prims</a></td>
       <td><code>gr-prims</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -385,7 +399,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Quick select algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-qsel">Quick Select</a></td>
+      <td><a href="./algorithms/ar-qsel">Quick Select</a></td>
       <td><code>ar-qsel</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -399,7 +413,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Quick sort algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-qsrt">Quick Sort</a></td>
+      <td><a href="./algorithms/ar-qsrt">Quick Sort</a></td>
       <td><code>ar-qsrt</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -413,7 +427,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Radix sort algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-radsrt">Radix Sort</a></td>
+      <td><a href="./algorithms/ar-radsrt">Radix Sort</a></td>
       <td><code>ar-radsrt</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
@@ -427,7 +441,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Rod cutting problem -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-rcprb">Rod Cutting Problem</a></td>
+      <td><a href="./algorithms/ar-rcprb">Rod Cutting Problem</a></td>
       <td><code>ar-rcprb</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -441,7 +455,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Selection sort algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-ssrt">Selection Sort</a></td>
+      <td><a href="./algorithms/ar-ssrt">Selection Sort</a></td>
       <td><code>ar-ssrt</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
@@ -455,7 +469,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Shell sort algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-shsrt">Shell Sort</a></td>
+      <td><a href="./algorithms/ar-shsrt">Shell Sort</a></td>
       <td><code>ar-shsrt</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -469,7 +483,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Sieve of eratosthenes algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-soer">Sieve of Erastosthenes</a></td>
+      <td><a href="./algorithms/ar-soer">Sieve of Erastosthenes</a></td>
       <td><code>ar-soer</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -483,7 +497,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Sleep sort algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-slpsrt">Sleep Sort</a></td>
+      <td><a href="./algorithms/ar-slpsrt">Sleep Sort</a></td>
       <td><code>ar-slpsrt</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -497,21 +511,21 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
         <!-- Spiral Matrix -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2020/tree/main/algorithms/ar-spmat">Spiral Matrix</a></td>
+      <td><a href="./algorithms/ar-spmat">Spiral Matrix</a></td>
       <td><code>ar-spmat</code></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
      <!-- Count sort algorithm -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-csrt">Count Sort</a></td>
+      <td><a href="./algorithms/ar-csrt">Count Sort</a></td>
       <td><code>ar-csrt</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -523,9 +537,22 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
-    <!-- Z function -->
+    <!-- Evaulate Postfix Expression -->
     <tr>
-     <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/blob/main/algorithms/z_function.cpp">Z function</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/Evaluate_Postfix.cpp">Evaulate Postfix Expression</a></td>
+      <td><code>Evaluate_Postfix.cpp</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
+    <tr>
+     <td><a href="./algorithms/ar-zfnc">Z function</a></td>
       <td><code>ar-zfnc</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -539,7 +566,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Red blacktree -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/blob/main/algorithms/Red-blacktree-Algorithm/">Red Blacktree</a></td>
+      <td><a href="./algorithms/ar-rbtree">Red Blacktree</a></td>
       <td><code>ar-rbtree</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -553,21 +580,20 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Rock Paper Scissor -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/blob/main/algorithms/Rrock_paper_scissor/">Rock Paper Scissor</a></td>
+      <td><a href="./algorithms/ar-rpprscs">Rock Paper Scissor</a></td>
       <td><code>ar-rpprscs</code></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
+      <td class="text-center">Done</td>
     </tr>
     <!-- String Hashing Algorithm -->
     <tr>
-     <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/blob/main/algorithms/hashing.cpp">String Hashing</a></td>
+     <td><a href="./algorithms/ar-strhsg">String Hashing</a></td>
       <td><code>ar-strhsg</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -581,7 +607,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Left View of binary tree -->
     <tr>
-     <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/blob/main/algorithms/hashing.cpp">Left View Binary Tree</a></td>
+     <td><a href="./algorithms/ar-lvwbintr">Left View Binary Tree</a></td>
       <td><code>ar-lvwbintr</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -595,7 +621,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Top View of binary tree -->
     <tr>
-     <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-tvwbintr">Top View Binary Tree</a></td>
+     <td><a href="./algorithms/ar-tvwbintr">Top View Binary Tree</a></td>
       <td><code>ar-tvwbintr</code></td>
       <td class="text-center"></td>
       <td class="text-center">done</td>
@@ -609,7 +635,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Bottom View of binary tree -->
     <tr>
-     <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-bvwbintr">Bottom View Binary Tree</a></td>
+     <td><a href="./algorithms/ar-bvwbintr">Bottom View Binary Tree</a></td>
       <td><code>ar-bvwbintr</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
