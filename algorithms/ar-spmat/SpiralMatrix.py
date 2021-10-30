@@ -1,6 +1,3 @@
-
-
-
 def spiral_matrix(matrix):
     """
     Spiral Matrix implementations.
@@ -51,8 +48,6 @@ def spiral_matrix(matrix):
 
         # Matrix is valid
         return True
-
-    def step(direction):
         """
         Steps over the matrix given the direction.
         """
