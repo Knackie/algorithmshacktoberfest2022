@@ -500,7 +500,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><a href="./algorithmshacktoberfest2021/tree/main/algorithms/ar-spmat">Spiral Matrix</a></td>
       <td><code>ar-spmat</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
