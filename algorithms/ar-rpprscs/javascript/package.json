@@ -1,0 +1,18 @@
+{
+  "name": "ar-rpprscs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node .",
+    "test": "ava"
+  },
+  "private": true,
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^3.15.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
