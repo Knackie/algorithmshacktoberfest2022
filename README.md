@@ -95,7 +95,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><code>ar-bsrt</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
