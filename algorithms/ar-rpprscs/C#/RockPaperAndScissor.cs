@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading;
 
-namespace RockPaperAndScizor
+namespace RockPaperAndScissor
 {
     class Program
     {
@@ -14,8 +14,8 @@ namespace RockPaperAndScizor
         public static void Game()
         {
             //Players Choice
-            Console.WriteLine("Hey, let's play Rock, Scizor and Paper!");
-            Console.WriteLine("Choose your weapon: \n 1 - Rock \n 2 - Scizor \n 3 - Paper");
+            Console.WriteLine("Hey, let's play Rock, Scissor and Paper!");
+            Console.WriteLine("Choose your weapon: \n 1 - Rock \n 2 - Scisor \n 3 - Paper");
             var player_choice = Console.ReadLine();
             var errorMessage = "Hey, That's not fair! Let's do it again!";
             var possible_weapons = new List<string>() {"1", "2", "3"};
