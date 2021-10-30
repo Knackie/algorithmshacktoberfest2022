@@ -89,6 +89,20 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+    <!-- Bogosort algorithm -->
+    <tr>
+      <td><a href="./algorithms/gr-bfsrh">Bogosort</a></td>
+      <td><code>ar-bogosort</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
     <!-- Bubble sort algorithm -->
     <tr>
       <td> <a href="./algorithms/ar-bsrt">Bubble Sort</a></td>
