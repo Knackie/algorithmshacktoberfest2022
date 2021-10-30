@@ -523,7 +523,20 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
-    <!-- Z function -->
+    <!-- Evaulate Postfix Expression -->
+    <tr>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/Evaluate_Postfix.cpp">Evaulate Postfix Expression</a></td>
+      <td><code>Evaluate_Postfix.cpp</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
     <tr>
      <td><a href="./algorithms/ar-zfnc">Z function</a></td>
       <td><code>ar-zfnc</code></td>
