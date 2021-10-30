@@ -129,5 +129,5 @@ matrix_2 = [
     [25, 26, 27, 28, 29, 30],
 ]
 
-print('Spiral matrix for Matrix 1: ')
+print('Spiral matrix for Matrix 2: ')
 print(spiral_matrix(matrix_2))
