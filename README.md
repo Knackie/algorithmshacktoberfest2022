@@ -76,14 +76,14 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
-    <!-- Binary search algorithm -->
+    <!-- Breadth First search algorithm -->
     <tr>
       <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/gr-bfsrh">Breadth First Search</a></td>
       <td><code>gr-bfsrh</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
@@ -139,7 +139,7 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
