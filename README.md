@@ -65,7 +65,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     <tr>
       <td><a href="./algorithmshacktoberfest2021/tree/main/algorithms/ar-binsrt">Bin Sort</a></td>
       <td><code>ar-binsrt</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
