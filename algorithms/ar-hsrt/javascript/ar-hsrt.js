@@ -14,7 +14,7 @@ function heapify(arr, n, i) {
     if (largest != i) {
         aux = arr[i];
         arr[i] = arr[largest];
-        arr[largest] = arr[i];
+        arr[largest] = aux;
         heapify(arr, n, largest);
     }
 }
@@ -29,7 +29,7 @@ function heapsort(arr) {
     for (i = 0; i < n; i++) {
         aux = arr[i];
         arr[i] = arr[0];
-        arr[0] = arr[i];
+        arr[0] = aux;
         heapify(arr, i, 0);
     }
 }
