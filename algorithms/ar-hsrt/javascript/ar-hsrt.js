@@ -34,7 +34,7 @@ function heapsort(arr) {
     }
 }
 
-arr = [12, 11, 13, 5, 6, 7];
+let arr = [12, 11, 13, 5, 6, 7];
 heapsort(arr);
 
 for (i = 0; i < arr.length; i++) {
