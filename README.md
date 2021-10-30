@@ -1,7 +1,6 @@
 # algorithms hacktoberfest2021
 
-Make some algorithms in differents languages, about the issues.
-How it's work ?
+Make some algorithms in differents languages, about the issues. How it's work ?
 
 - Create some issues for one algorithm.
 - Fork the repos, make it and create a Pull Request
@@ -563,7 +562,7 @@ How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
     </tr>
     <!-- String Hashing Algorithm -->
