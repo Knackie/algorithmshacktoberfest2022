@@ -105,7 +105,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><code>ar-bsrt</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -120,7 +120,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
@@ -328,7 +328,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><a href="./algorithms/ar-mexp">Modular Exponential</a></td>
       <td><code>ar-mexp</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -440,7 +440,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><a href="./algorithms/ar-rcprb">Rod Cutting Problem</a></td>
       <td><code>ar-rcprb</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -579,7 +579,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><a href="./algorithms/ar-rpprscs">Rock Paper Scissor</a></td>
       <td><code>ar-rpprscs</code></td>
       <td class="text-center">Done</td>
-      <td class="text-center"></td>
+      <td class="text-center">DONE</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
@@ -620,7 +620,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
      <td><a href="./algorithms/ar-tvwbintr">Top View Binary Tree</a></td>
       <td><code>ar-tvwbintr</code></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
