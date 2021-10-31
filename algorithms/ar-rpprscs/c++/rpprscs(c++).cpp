@@ -1,89 +1,81 @@
 #include <iostream>
- 
-// Constant variables
-const char ROCK = 'r';
-const char PAPER = 'p';
-const char SCISSORS = 's';
- 
-using namespace std;
- 
-char getComputerOption() {
-    srand(time(0));
-    // Random number
-    int num = rand() % 3 + 1;
- 
-    if(num==1) return 'r';
-    if(num==2) return 'p';
-    if(num==3) return 's';
-}
- 
-char getUserOption() {
-    char c;
-    cout << "Rock, Paper and Scissors Game!" << endl;
-    cout << "Choose one of the following options"  << endl;
-    cout << "-----------------------------------"  << endl;
-    cout << "(r) for rock " << endl << "(p) for paper" << endl << "(s) for scissors " << endl;
-    cin >> c;
-    
-    while (c!='r' && c!='p' && c!='s' )
-    {
-        cout << "Please enter one of the following options only. " << endl;
-        cout << "(r) for rock " << endl << "(p) for paper" << endl << "(s) for scissors " << endl;
-        cin >> c;
-    }
- 
-    return c;
-}
- 
-void showSelectedOption(char option) {
-    if (option == 'r') cout << "Rock" << endl;
-    if (option == 'p') cout << "Paper" << endl;
-    if (option == 's') cout << "Scissors" << endl;
-}
- 
-void chooseWinner(char uChoice, char cChoice) {
-    if (uChoice == ROCK && cChoice == PAPER) {
-        cout << "Computer Wins! Paper wraps Rock."<< endl;
-    }
-    else if (uChoice == PAPER && cChoice == SCISSORS) {
-        cout << "Computer Wins! Scissors cut Paper."<< endl;
-        
-    }
-    else if (uChoice == SCISSORS && cChoice == ROCK) {
-        cout << "Computer Wins! Rock smashes Scissors."<< endl;
-        
-    }
-    else if (uChoice == ROCK && cChoice == SCISSORS) {
-        cout << "You Win! Paper wraps Rock."<< endl;
-        
-    }
-    else if (uChoice == PAPER && cChoice == ROCK) {
-        cout << "You Win! Paper wraps Rock."<< endl;
-        
-    }
-    else if (uChoice == SCISSORS && cChoice == PAPER) {
-        cout << "You Win! Scissors cut Paper."<< endl;
-    }
-    else{
-        cout << "Tie. Play again win the Game." << endl;
-    }
-}
- 
+#include <stdlib.h>
 int main() {
-    //User's choice
-    char uChoice; 
-    //Compter's choice
-    char cChoice;
-    
-    uChoice = getUserOption();
-    cout << "Your choice is: "<< endl;
-    showSelectedOption(uChoice);
-    
-    cout << "Computer's choice is: "<< endl;
-    cChoice = getComputerOption();
-    showSelectedOption(cChoice);
-    
-    chooseWinner(uChoice, cChoice);
- 
-    return 0;
+
+srand (time(NULL));
+
+int computer = rand() % 3 + 1;
+
+int user = 0;
+  
+  //Creating strings to avoid repetition
+  std::string roc = "1) ✌️Rock\n";
+  std::string pap = "2) ✋Paper\n";
+  std::string sci = "3) ✌️Scissors\n";
+  
+
+std::cout << "====================\n";
+std::cout << "rock paper scissors!\n";
+std::cout << "====================\n";
+
+std::cout << roc;
+std::cout << pap;
+std::cout << sci;
+
+std::cout << "Choose: ";
+std::cin >> user;
+
+  
+std::cout << "\nYou  choose ";
+  
+  //Displaying user choice
+  switch(user){
+    case 1 :
+    	std::cout << roc;
+    	break;
+    case 2 :
+    	std::cout << pap;
+    	break;
+    case 3 :
+    	std::cout << sci;
+    	break;
+    default :
+    	std::cout << "Invalid Option\n";
+  }
+  
+  //Displaying computer choice
+std::cout << "Comp choose ";
+    switch(computer){
+    case 1 :
+    	std::cout << roc;
+    	break;
+    case 2 :
+    	std::cout << pap;
+    	break;
+    case 3 :
+    	std::cout << sci;
+    	break;
+    default :
+    	std::cout << "Invalid Option\n";
+  }
+  
+  
+  //Win Lose Draw Logic
+  if(user == computer){
+    std::cout << "Draw Game\n";
+  }
+  else if(user == 1 && computer == 3){
+    std::cout << "You Win\n";
+  }
+  else if(user == 3 && computer == 2){
+    std::cout << "You Win\n";
+  }
+  else if(user == 2 && computer == 1){
+    std::cout << "You Win\n";
+  }
+  else{
+    std::cout << "Computer Wins!\n";
+  }
+  
 }
+ 
