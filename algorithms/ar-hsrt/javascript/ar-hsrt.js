@@ -22,11 +22,11 @@ function heapify(arr, n, i) {
 function heapsort(arr) {
     let n = arr.length;
 
-    for (i = 0; i < n; i++) {
+    for (i = Math.floor(n / 2) - 1; i >= 0; i--) {
         heapify(arr, n, i);
     }
 
-    for (i = 0; i < n; i++) {
+    for (i = n - 1; i > 0; i--) {
         aux = arr[i];
         arr[i] = arr[0];
         arr[0] = aux;
@@ -34,9 +34,9 @@ function heapsort(arr) {
     }
 }
 
-let arr = [12, 11, 13, 5, 6, 7];
+let arr = [12, 11, 13, 5, 6, 7, 22];
 heapsort(arr);
 
 for (i = 0; i < arr.length; i++) {
-    console.log(i);
+    console.log(arr[i]);
 }
