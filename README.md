@@ -579,7 +579,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><a href="./algorithms/ar-rpprscs">Rock Paper Scissor</a></td>
       <td><code>ar-rpprscs</code></td>
       <td class="text-center">Done</td>
-      <td class="text-center"></td>
+      <td class="text-center">DONE</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
