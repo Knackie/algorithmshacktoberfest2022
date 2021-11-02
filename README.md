@@ -539,7 +539,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Evaulate Postfix Expression -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/Evaluate_Postfix.cpp">Evaulate Postfix Expression</a></td>
+      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-pstfix"">Evaulate Postfix Expression</a></td>
       <td><code>Evaluate_Postfix.cpp</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
