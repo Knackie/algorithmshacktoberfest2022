@@ -56,6 +56,9 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <th scope="col" class="text-center">
         <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="20">
       </th>
+       <th scope="col" class="text-center">
+        other language
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -72,6 +75,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
     </tr>
     <!-- Bin sort algorithm -->
     <tr>
@@ -83,6 +87,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -100,6 +105,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Bogosort algorithm -->
     <tr>
@@ -107,6 +113,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><code>ar-bogosort</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -128,6 +135,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
     </tr>
     <!-- Coin change problem algorithm -->
     <tr>
@@ -142,6 +150,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Depth first search algorithm -->
     <tr>
@@ -153,6 +162,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -184,6 +194,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Heap sort algorithm -->
     <tr>
@@ -197,6 +208,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
     <!-- Insertion sort algorithm -->
@@ -212,6 +224,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
     </tr>
      <!-- Kadane's Algorithm -->
     <tr>
@@ -226,6 +239,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- KMP algorithm -->
     <tr>
@@ -233,6 +247,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><code>ar-kmp</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -254,6 +269,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Largest sum contiguous sub-array algorithm -->
     <tr>
@@ -265,6 +281,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -282,6 +299,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Longest common subsequence algorithm -->
     <tr>
@@ -293,6 +311,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -310,6 +329,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Longest palindromic substring algorithm -->
     <tr>
@@ -319,6 +339,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -338,6 +359,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Modular exponential algorithm -->
     <tr>
@@ -345,6 +367,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><code>ar-mexp</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -366,12 +389,14 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Pigeonhole Sort algorithm -->
      <tr>
       <td><a href="./algorithms/ar-nsrh">Naive Search</a></td>
       <td><code>ar-nsrh</code></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -394,6 +419,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Prims algorithm -->
     <tr>
@@ -405,6 +431,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -422,6 +449,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Quick sort algorithm -->
     <tr>
@@ -436,6 +464,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Radix sort algorithm -->
     <tr>
@@ -443,6 +472,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><code>ar-radsrt</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -464,6 +494,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Selection sort algorithm -->
     <tr>
@@ -478,6 +509,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
     </tr>
     <!-- Shell sort algorithm -->
     <tr>
@@ -489,6 +521,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -506,6 +539,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Sleep sort algorithm -->
     <tr>
@@ -519,6 +553,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
         <!-- Spiral Matrix -->
@@ -534,6 +569,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
      <!-- Count sort algorithm -->
     <tr>
@@ -541,6 +577,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><code>ar-csrt</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -562,12 +599,14 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <tr>
      <td><a href="./algorithms/ar-zfnc">Z function</a></td>
       <td><code>ar-zfnc</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -589,6 +628,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Rock Paper Scissor -->
     <tr>
@@ -603,6 +643,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>  
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- String Hashing Algorithm -->
     <tr>
@@ -610,6 +651,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><code>ar-strhsg</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -631,6 +673,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Top View of binary tree -->
     <tr>
@@ -645,6 +688,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Bottom View of binary tree -->
     <tr>
@@ -654,6 +698,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
