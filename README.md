@@ -1,5 +1,17 @@
 # algorithms hacktoberfest2021
 
+<div align=center>
+
+  # Hacktoberfest Swag <!-- current year start -->2022<!-- current year end -->
+![Hacktoberfest](https://user-images.githubusercontent.com/76551267/192132571-7d0d7952-9fcc-4e93-96bb-8350b20dcbfc.png "Hacktoberfest")
+
+[![Website](https://img.shields.io/badge/Website-visit-2a8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://benbarth.github.io/hacktoberfest-swag/)
+[![Validation](https://img.shields.io/github/workflow/status/benbarth/hacktoberfest-swag/Update%20README/master?logo=github&style=for-the-badge)](https://github.com/benbarth/hacktoberfest-swag/actions?query=workflow%3A"Update+README")
+
+Looking for Hacktoberfest swag? You've come to the right place.
+
+</div>
+
 Make some algorithms in differents languages, about the issues. How it's work ?
 
 - Create some issues for one algorithm.
