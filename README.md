@@ -1,4 +1,4 @@
-# algorithms hacktoberfest2021
+# algorithms hacktoberfest
 
 <div align=center>
 
