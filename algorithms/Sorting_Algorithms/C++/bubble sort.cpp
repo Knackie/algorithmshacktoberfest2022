@@ -1,51 +1,44 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-
-void Bubble_sort(int size,int A[])	//bubble up
-{
-	for(int i=0; i<size; i++)
-	{
-	 	int flag=0;
-		for(int j=0; j<((size-1)-i); j++)
-		{
-			if(A[j]>A[j+1])
-			{
-				int temp=A[j];
-			    A[j]=A[j+1];
-				A[j+1]=temp;
-			    flag=1;	
-			}
-			
-		}
-		if(flag==0)
-		 {  break;
-				
-			}
-	 
-	}
  
-		cout<<"\n After sort";
-	
-		for(int i=0; i<size ; i++)
-	{
-	cout<<"\t"<<A[i];
-		
-	}
-	
+void swap(int *a, int *b)
+{
+   int temp = *a;
+   *a = *b;
+   *b = temp;
 }
+ 
+void bubbleSort(int arr[], int n)
+{
+   for (int i = 0; i < n-1; i++)
+   { 
+        // last i elements are already at the correct position
+       for (int j = 0; j < n-i-1; j++)
+       {
+           if (arr[j] > arr[j+1])
+               swap(&arr[j], &arr[j+1]);
+       }
+   }
+}
+ 
+void printArray(int arr[], int n)
+{
+   for (int i = 0; i < n; i++)
+       cout << arr[i] << " ";
+   cout << "\n";
+}
+ 
 int main()
 {
-	
-	int size;
-	cout<<"Enter size of arrray: ";
-	cin>>size;
-	int A[10];
-	cout<<"Enter the values of aray\n";
-	for(int i=0; i<size ; i++)
-	{
-		cout<<"value "<<i<<" : ";
-		cin>>A[i];
-	}
-	Bubble_sort(size,A);
-	return 0;
+   int arr[] = {6, 3, 8, 9, 5};
+   int n = sizeof(arr)/sizeof(arr[0]);
+   cout<<"Given Array: ";
+   printArray(arr, n);
+ 
+   bubbleSort(arr, n);
+  
+   cout<<"Sorted Array: ";
+   printArray(arr, n);
+  
+   return 0;
 }
