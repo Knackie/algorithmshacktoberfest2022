@@ -1,51 +1,39 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-void Bubble_sort(int size,int A[])	//bubble up
-{
-	for(int i=0; i<size; i++)
-	{
-	 	int flag=0;
-		for(int j=0; j<((size-1)-i); j++)
-		{
-			if(A[j]>A[j+1])
-			{
-				int temp=A[j];
-			    A[j]=A[j+1];
-				A[j+1]=temp;
-			    flag=1;	
-			}
-			
-		}
-		if(flag==0)
-		 {  break;
-				
-			}
-	 
-	}
- 
-		cout<<"\n After sort";
-	
-		for(int i=0; i<size ; i++)
-	{
-	cout<<"\t"<<A[i];
-		
-	}
-	
-}
 int main()
 {
-	
-	int size;
-	cout<<"Enter size of arrray: ";
-	cin>>size;
-	int A[10];
-	cout<<"Enter the values of aray\n";
-	for(int i=0; i<size ; i++)
-	{
-		cout<<"value "<<i<<" : ";
-		cin>>A[i];
-	}
-	Bubble_sort(size,A);
-	return 0;
+    int n;
+    cout<<"Enter size of array "<<endl;
+    cin>>n;
+    int arr[n],i,j,pass;
+    cout<<"Enter the elements"<<endl;
+
+    for(i=0;i<n;i++)
+    {
+        cin>>arr[i];
+    }
+    cout<<"Original Array : "<<endl;
+    for(i=0;i<n;i++){
+        cout<<arr[i]<<endl;
+    }
+    for(i=0;i<n-1;i++)
+    {
+        for(j=0;j<n-i-1;j++)
+        {
+           if(arr[j]>arr[j+1])
+            {
+                int temp=arr[j];
+                arr[j]=arr[j+1];
+                arr[j+1]=temp;
+            }
+        }
+        pass++;
+    }
+    cout<<"New Array : "<<endl;
+    for(i=0;i<n;i++)
+    cout<<arr[i]<<" ";
+    cout<<endl;
+    cout<<"Number of pass "<<pass;
+    return 0;
 }
