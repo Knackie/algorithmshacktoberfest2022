@@ -109,7 +109,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Bogosort algorithm -->
     <tr>
-      <td><a href="./algorithms/gr-bfsrh">Bogosort</a></td>
+      <td><a href="./algorithms/ar-bogosort">Bogosort</a></td>
       <td><code>ar-bogosort</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -177,6 +177,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -393,9 +394,9 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Pigeonhole Sort algorithm -->
      <tr>
-      <td><a href="./algorithms/ar-nsrh">Naive Search</a></td>
-      <td><code>ar-nsrh</code></td>
-      <td class="text-center">Done</td>
+      <td><a href="./algorithms">Pigeonhole Sort algorithm</a></td>
+      <td><code>ar-....</code></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -588,8 +589,8 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Evaulate Postfix Expression -->
     <tr>
-      <td><a href="https://github.com/Knackie/algorithmshacktoberfest2021/tree/main/algorithms/ar-pstfix"">Evaulate Postfix Expression</a></td>
-      <td><code>Evaluate_Postfix.cpp</code></td>
+      <td><a href="./algorithms/ar-pstfix">Evaluate Postfix Expression</a></td>
+      <td><code>ar-pstfix</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
