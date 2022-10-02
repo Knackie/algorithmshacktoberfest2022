@@ -696,7 +696,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
             <!-- Right View of binary tree -->
     <tr>
      <td><a href="./algorithms/ar-bvwbintr">Right View Binary Tree</a></td>
-      <td><code>ar-bvwbintr</code></td>
+      <td><code>rightview</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
