@@ -693,6 +693,21 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+            <!-- Right View of binary tree -->
+    <tr>
+     <td><a href="./algorithms/ar-bvwbintr">Right View Binary Tree</a></td>
+      <td><code>rightview</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
     <!-- Bottom View of binary tree -->
     <tr>
      <td><a href="./algorithms/ar-bvwbintr">Bottom View Binary Tree</a></td>
@@ -708,6 +723,9 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+    
+
+    
     <!-- Boyer Moore's Algorithm -->
     <tr>
      <td><a href="./algorithms/ar-bm">Boyer Moore's Algorithm</a></td>
