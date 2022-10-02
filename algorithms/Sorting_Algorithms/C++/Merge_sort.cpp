@@ -1,104 +1,92 @@
-#include<iostream>
+#include <iostream>
+ 
 using namespace std;
-
-void Merge(int left[],int nl, int right[],int nr , int A[],int n)
+ 
+// A function to merge the two half into a sorted data.
+void Merge(int *a, int low, int high, int mid)
 {
-	 int size_of_left=nl;
-	 int size_of_right=nr;
-	 int size_of_main=n;
-	 
-	 int i=0, j=0,k=0;
-	 
-	 while((i<size_of_left) && (j<size_of_right))
-	 {cout<<"in while";
-	 	if(left[i]<right[j])
-	 	{
-	 		A[k]=left[i];
-	 		i=i+1;
-		 }
-		 
-		 	else  
-	 	{
-	 		A[k]=right[j];
-	 		j=j+1;
-	 		
-		 }
-		 
-		 k=k+1;
-		 
-	 
-	 }
-	 //if any indexes are left
-	 if(i<size_of_left)
-	 {
-	 	A[k]=left[i];
-	 	i=i+1;
-	 	k=k+1;
-	 }
-	 else if(j<size_of_right)
-	 {
-	 	A[k]=right[i];
-	 	j=j+1;
-	 	k=k+1;
-	 }
-return;	 
-}
-
-void Merge_sort(int A[],int siz)
-{
-	int length= siz;
-	if(length<2)
+	// We have low to mid and mid+1 to high already sorted.
+	int i, j, k, temp[high-low+1];
+	i = low;
+	k = 0;
+	j = mid + 1;
+ 
+	// Merge the two parts into temp[].
+	while (i <= mid && j <= high)
 	{
-		return;
+		if (a[i] < a[j])
+		{
+			temp[k] = a[i];
+			k++;
+			i++;
+		}
+		else
+		{
+			temp[k] = a[j];
+			k++;
+			j++;
+		}
 	}
-	int mid=length/2;
-	int left[10];
-	int right[10];
-	
-	int nL=mid;
-	int nR=mid-length;
-	for(int i=0; i<mid; i++)
+ 
+	// Insert all the remaining values from i to mid into temp[].
+	while (i <= mid)
 	{
-		left[i]=A[i];
-	 
+		temp[k] = a[i];
+		k++;
+		i++;
 	}
-	int x=mid-length;
-	int M= mid;
-	for(int i=0; i<(x ); i++)
+ 
+	// Insert all the remaining values from j to high into temp[].
+	while (j <= high)
 	{
-		right[i]=A[M];
-		M++;
-	 
+		temp[k] = a[j];
+		k++;
+		j++;
 	}
-	Merge_sort(left,nL);
-	Merge_sort(right,nR);
-	Merge(left,nL, right,nR, A,length);
-	
-}
-void Print(int A[],int n)
-{
-	cout<<"\n After sort";
-	
-		for(int i=0; i<n ; i++)
+ 
+ 
+	// Assign sorted data stored in temp[] to a[].
+	for (i = low; i <= high; i++)
 	{
-	cout<<"\t"<<A[i];
-		
+		a[i] = temp[i-low];
 	}
 }
+ 
+// A function to split array into two parts.
+void MergeSort(int *a, int low, int high)
+{
+	int mid;
+	if (low < high)
+	{
+		mid=(low+high)/2;
+		// Split the data into two half.
+		MergeSort(a, low, mid);
+		MergeSort(a, mid+1, high);
+ 
+		// Merge them to get sorted output.
+		Merge(a, low, high, mid);
+	}
+}
+ 
 int main()
-
 {
-	int size;
-	cout<<"Enter size of arrray: ";
-	cin>>size;
-	int A[10];
-	cout<<"Enter the values of aray\n";
-	for(int i=0; i<size ; i++)
+	int n, i;
+	cout<<"\nEnter the number of data element to be sorted: ";
+	cin>>n;
+ 
+	int arr[n];
+	for(i = 0; i < n; i++)
 	{
-		cout<<"value "<<i<<" : ";
-		cin>>A[i];
+		cout<<"Enter element "<<i+1<<": ";
+		cin>>arr[i];
 	}
-	Merge_sort(A,size);
-	Print(A,size);
+ 
+	MergeSort(arr, 0, n-1);
+ 
+	// Printing the sorted data.
+	cout<<"\nSorted Data ";
+	for (i = 0; i < n; i++)
+        cout<<"->"<<arr[i];
+ 
 	return 0;
 }
