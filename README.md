@@ -710,8 +710,8 @@ Make some algorithms in differents languages, about the issues. How it's work ?
      <td><a href="./algorithms/ar-bm">Boyer Moore's Algorithm</a></td>
       <td><code>ar-bm</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
