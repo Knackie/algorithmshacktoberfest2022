@@ -17,6 +17,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
 - Create some issues for one algorithm.
 - Fork the repos, make it and create a Pull Request
 - Add your name in contributor
+- Update readme with done in right colomn
 
 **Drop a ⭐ on the Github repository**
 
@@ -93,6 +94,21 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
     </tr>
     <!-- Breadth First search algorithm -->
+    <tr>
+      <td><a href="./algorithms/ar-bm">Boyer Moore's Algorithm</a></td>
+      <td><code>ar-bm</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
+     <!-- Breadth First search algorithm -->
     <tr>
       <td><a href="./algorithms/gr-bfsrh">Breadth First Search</a></td>
       <td><code>gr-bfsrh</code></td>
@@ -539,8 +555,6 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
