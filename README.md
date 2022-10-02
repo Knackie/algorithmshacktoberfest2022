@@ -262,7 +262,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><a href="./algorithms/ar-knn">K-NN</a></td>
       <td><code>ar-knn</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -397,7 +397,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><a href="./algorithms">Pigeonhole Sort algorithm</a></td>
       <td><code>ar-....</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -696,7 +696,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
      <td><a href="./algorithms/ar-bvwbintr">Bottom View Binary Tree</a></td>
       <td><code>ar-bvwbintr</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
