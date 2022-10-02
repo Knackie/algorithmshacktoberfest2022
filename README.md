@@ -17,6 +17,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
 - Create some issues for one algorithm.
 - Fork the repos, make it and create a Pull Request
 - Add your name in contributor
+- Update readme with done in right colomn
 
 **Drop a ⭐ on the Github repository**
 
