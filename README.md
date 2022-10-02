@@ -472,7 +472,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     <tr>
       <td><a href="./algorithms/ar-qsrt">Quick Sort</a></td>
       <td><code>ar-qsrt</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
