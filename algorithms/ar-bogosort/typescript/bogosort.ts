@@ -1,34 +1,28 @@
-function bogoSort(list: number[]): number[] {
-    let result = [...list]
-    while (!isSorted(result)) {
-        scramble(result)
-    }
-    return result
+let input = [1,2,3,4]
+input = shuffle(input)
+var shuffleCount = 0;
+function bogosort(arr:number[]){
+    while (!iSsorted(arr)) {
+        shuffleCount++;
+        arr = shuffle(arr);
+      }
+    return {shuffleCount, arr} 
 }
 
-function isSorted(list: number[]): boolean {
-    for (let i = 1; i < list.length; i++) {
-        if (!(list[i] >= list[i - 1])) {
-            return false
-        }
+function iSsorted(array:number[]) {
+    for (var i = 0; i < array.length - 1; i++) {
+      if (array[i] <= array[i + 1]) {
+        continue;
+      } else {
+        return false;
+      }
     }
     return true
+  }
+
+function shuffle(arr:number[]) {
+  return arr.sort(() => Math.random() - 0.5);
 }
 
-function scramble(list: number[]): void {
-    for (let i = list.length - 1; i > 0; i--) {
-        let newIndex = Math.floor(Math.random() * (i))
-        let aux = list[i]
-        list[i] = list[newIndex]
-        list[newIndex] = aux
-    }
-}
-
-const list: number[] = [3, 5, 6, 2, 5]
-
-const sortedList: number[] = bogoSort(list)
-
-console.log({
-    list,
-    sortedList
-})
+let solve = bogosort(input)
+console.log(`Finished within ${solve.shuffleCount} | ${solve.arr.join(",")}`)

@@ -1,51 +1,41 @@
 #include<iostream>
 using namespace std;
-
-void Bubble_sort(int size,int A[])	//bubble up
-{
-	for(int i=0; i<size; i++)
-	{
-	 	int flag=0;
-		for(int j=0; j<((size-1)-i); j++)
-		{
-			if(A[j]>A[j+1])
-			{
-				int temp=A[j];
-			    A[j]=A[j+1];
-				A[j+1]=temp;
-			    flag=1;	
-			}
-			
-		}
-		if(flag==0)
-		 {  break;
-				
-			}
-	 
-	}
- 
-		cout<<"\n After sort";
-	
-		for(int i=0; i<size ; i++)
-	{
-	cout<<"\t"<<A[i];
-		
-	}
-	
+void swapping(int &a, int &b) {      //swap the content of a and b
+   int temp;
+   temp = a;
+   a = b;
+   b = temp;
 }
-int main()
-{
-	
-	int size;
-	cout<<"Enter size of arrray: ";
-	cin>>size;
-	int A[10];
-	cout<<"Enter the values of aray\n";
-	for(int i=0; i<size ; i++)
-	{
-		cout<<"value "<<i<<" : ";
-		cin>>A[i];
-	}
-	Bubble_sort(size,A);
-	return 0;
+void display(int *array, int size) {
+   for(int i = 0; i<size; i++)
+      cout << array[i] << " ";
+   cout << endl;
+}
+void bubbleSort(int *array, int size) {
+   for(int i = 0; i<size; i++) {
+      int swaps = 0;         //flag to detect any swap is there or not
+      for(int j = 0; j<size-i-1; j++) {
+         if(array[j] > array[j+1]) {       //when the current item is bigger than next
+            swapping(array[j], array[j+1]);
+            swaps = 1;    //set swap flag
+         }
+      }
+      if(!swaps)
+         break;       // No swap in this pass, so array is sorted
+   }
+}
+int main() {
+   int n;
+   cout << "Enter the number of elements: ";
+   cin >> n;
+   int arr[n];     //create an array with given number of elements
+   cout << "Enter elements:" << endl;
+   for(int i = 0; i<n; i++) {
+      cin >> arr[i];
+   }
+   cout << "Array before Sorting: ";
+   display(arr, n);
+   bubbleSort(arr, n);
+   cout << "Array after Sorting: ";
+   display(arr, n);
 }
