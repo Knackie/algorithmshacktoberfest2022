@@ -786,7 +786,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     <!-- CPU Scheduling -->
     <tr>
      <td><a href="./algorithms/ar-Cpuschpr">CPU Scheduling Process</a></td>
-      <td><code>ar-bvwbintr</code></td>
+      <td><code>ar-Cpuschpr</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
