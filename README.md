@@ -618,13 +618,14 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+    <!-- Z function -->
     <tr>
      <td><a href="./algorithms/ar-zfnc">Z function</a></td>
       <td><code>ar-zfnc</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
