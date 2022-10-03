@@ -783,6 +783,21 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+    <!-- Segment Tree with Lazy Propagation-->
+     <tr>
+     <td><a href="./DSA/segment-tree">Segment Tree</a></td>
+      <td><code>segment-tree</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
     
   </tbody>
 </table>
