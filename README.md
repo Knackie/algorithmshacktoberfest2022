@@ -607,7 +607,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     <tr>
       <td><a href="./algorithms/ar-pstfix">Evaluate Postfix Expression</a></td>
       <td><code>ar-pstfix</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
