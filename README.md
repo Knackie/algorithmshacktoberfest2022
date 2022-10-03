@@ -217,7 +217,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     <tr>
       <td> <a href="./algorithms/gr-dij">Dijkstra Algorithm</a></td>
       <td><code>gr-dij</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
