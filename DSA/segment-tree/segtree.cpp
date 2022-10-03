@@ -50,7 +50,7 @@ struct segtree {
 		}
 		int md = (lx + rx) / 2;
 
-		// cout << x << " " << operations[x] << endl;
+		
 		apply_mod_op(operations[2 * x + 1], operations[x], 1);
 		apply_mod_op(values[2 * x + 1], operations[x], md - lx);
 		apply_mod_op(operations[2 * x + 2], operations[x], 1);
