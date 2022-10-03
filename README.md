@@ -481,7 +481,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
     </tr>
     <!-- Prims algorithm -->
     <tr>
@@ -783,10 +783,25 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
-    <!-- Segment Tree with Lazy Propagation-->
-     <tr>
-     <td><a href="./DSA/segment-tree">Segment Tree</a></td>
-      <td><code>segment-tree</code></td>
+    <!-- CPU Scheduling -->
+    <tr>
+     <td><a href="./algorithms/ar-Cpuschpr">CPU Scheduling Process</a></td>
+      <td><code>ar-Cpuschpr</code></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
+      <!-- Queue Implementation-->
+    <tr>
+      <td><a href="./DSA">Queue Implementation</a></td>
+      <td><code>Queue</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
