@@ -63,6 +63,21 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
   </thead>
   <tbody>
+  <!-- A* algorithm -->
+    <tr>
+      <td><a href="./algorithms/Searching">A* algorithm</a></td>
+      <td><code>Searching</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
     <!-- Minimun in array -->
     <tr>
       <td><a href="./algorithms/ar-min">Minimum in array</a></td>
@@ -76,6 +91,21 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
+    </tr>
+    <!-- Best First Search algorithm -->
+    <tr>
+      <td><a href="./algorithms/Searching">Best First Search algorithm</a></td>
+      <td><code>Searching</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
     <!-- Bin sort algorithm -->
@@ -375,6 +405,21 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
+    <!-- Min-Max algorithm -->
+    <tr>
+      <td><a href="./algorithms">Min-Max algorithm</a></td>
+      <td><code>algorithms</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
