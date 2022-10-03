@@ -187,7 +187,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     <tr>
       <td><a href="./algorithms/ar-cochprb">Coin Change Problem</a></td>
       <td><code>ar-cochprb</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
