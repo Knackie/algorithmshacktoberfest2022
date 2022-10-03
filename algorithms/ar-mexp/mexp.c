@@ -1,5 +1,5 @@
 // Modular Exponential in C
-#include <stdio.h>
+#include<stdio.h>
 int power(int x,int y,int p);
 /* Iterative Function to calculate (x^y)%p in O(log y) */
 int power(int x, int y, int p)
