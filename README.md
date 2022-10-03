@@ -743,6 +743,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
 
 # Issues
 follow this model
+    
 **_Added [XXX] algorithm in the good folder._**
 1. [x] added [XXX] algorithm. 
 2. [x] updated readme.
