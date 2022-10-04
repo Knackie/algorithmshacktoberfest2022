@@ -1,8 +1,9 @@
 /**
   * You are given two strings s and p. Find number of occurances of p in s.
   */
+  package string;
 
-public class Solution {
+ class Solution {
 
 	public static int zAlgorithm(String s, String p, int n, int m) {
         String sp = p + "$" + s ;

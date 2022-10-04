@@ -816,7 +816,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
      <!-- Amazon OA Questions-->
     <tr>
       <td><a href="./DSA">Amazon OA Questions</a></td>
-      <td><code>Queue</code></td>
+      <td><code>Amazon OA Questions</code></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
