@@ -918,6 +918,20 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+    <tr>
+      <td><a href="./DSA/FenwickTree">Fenwick Tree</a></td>
+      <td><code>Fenwick Tree</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
     <!-- Greedy Implementation-->
     <td><a href="./DSA">Greedy Implementation</a></td>
       <td><code>Greedy</code></td>
@@ -931,6 +945,8 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      
+     
   </tbody>
 </table>
 
