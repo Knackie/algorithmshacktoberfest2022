@@ -948,6 +948,21 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       </tr>
+    <!-- Minimum Spanning Tree - Prim's Algorithm -->
+    <tr>
+      <td><a href="./algorithms/prims-algo.c">Minimum Spanning Tree</a></td>
+      <td><code>Prim's Algorithm</code></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
   </tbody>
 </table>
 
