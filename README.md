@@ -811,10 +811,10 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center"></td> 
     </tr>
-
-       <tr>
+     <!-- Amazon OA Questions-->
+    <tr>
       <td><a href="./DSA">Amazon OA Questions</a></td>
       <td><code>Queue</code></td>
       <td class="text-center"></td>
@@ -824,10 +824,12 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center"></td> 
     </tr>
+
+
          
 
     
