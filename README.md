@@ -858,7 +858,20 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
-    
+    <tr>
+     <td><a href="./algorithms/prims.c">Prims</a></td>
+      <td><code>prims.c</code>Prims</td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
   </tbody>
 </table>
 
