@@ -663,6 +663,21 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+     <!-- Topological Sort -->
+    <tr>
+      <td><a href="./algorithms/ar-pstfix">Topological Sort</a></td>
+      <td><code>toposort.cpp</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
     <!-- Z function -->
     <tr>
      <td><a href="./algorithms/ar-zfnc">Z function</a></td>
