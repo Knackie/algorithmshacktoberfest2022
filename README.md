@@ -860,7 +860,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <tr>
      <td><a href="./algorithms/prims.c">Prims</a></td>
-      <td><code>prims.c</code>Prims</td>
+      <td><code>Prims</code></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
