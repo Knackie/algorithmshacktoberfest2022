@@ -453,6 +453,21 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+     <!-- N Queens algorithm -->
+    <tr>
+      <td><a href="./algorithms/ar-nsrh">N Queens</a></td>
+      <td><code>n_queens.cpp</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
     <!-- Pigeonhole Sort algorithm -->
      <tr>
       <td><a href="./algorithms">Pigeonhole Sort algorithm</a></td>
