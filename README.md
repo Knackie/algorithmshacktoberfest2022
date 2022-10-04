@@ -875,7 +875,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Do not be distracted - Brute Force-->
     <tr>
-      <td><a href="./DSA/brute force example">Do not be distracted/a></td>
+      <td><a href="./DSA/brute force example">Do not be distracted</a></td>
       <td><code>Brute Force Algo</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
