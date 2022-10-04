@@ -813,6 +813,21 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+          <!-- Amazon OA-->
+    <tr>
+      <td><a href="./algorithms">Amazon OA questions</a></td>
+      <td><code>Amazon OA questions</code></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
     
   </tbody>
 </table>
