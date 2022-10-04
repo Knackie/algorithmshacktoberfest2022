@@ -907,7 +907,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
   </tbody>
 </table>
 
-# Issues
+# PULL REQUEST
 follow this model
     
 **_Added [XXX] algorithm in the good folder._**
