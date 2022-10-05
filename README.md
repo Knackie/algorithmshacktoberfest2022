@@ -129,7 +129,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><a href="./DSA/sorting/bucket_sort.cpp">Bucket Sort</a></td>
       <td><code>bucket_sort</code></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
