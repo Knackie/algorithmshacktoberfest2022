@@ -220,7 +220,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><code>gr-dfsrh</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
