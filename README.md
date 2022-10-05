@@ -411,9 +411,9 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Min-Max algorithm -->
     <tr>
-      <td><a href="./algorithms">Min-Max algorithm</a></td>
+      <td><a href="./algorithms/ar-minmax">Min-Max algorithm</a></td>
       <td><code>algorithms</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
