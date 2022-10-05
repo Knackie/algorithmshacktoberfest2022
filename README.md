@@ -873,6 +873,27 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
+     <tr>
+      <td><a href="./algorithms">Amazon OA questions</a></td>
+      <td><code>Amazon OA questions</code></td>
+      <!-- Amazon OA-->
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <tr>
      <td><a href="./algorithms/prims.c">Prims</a></td>
@@ -951,6 +972,22 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     <!-- Greedy Implementation-->
     <td><a href="./DSA">Greedy Implementation</a></td>
       <td><code>Greedy</code></td>
+      <td><a href="./algorithms/prims-algo.c">Minimum Spanning Tree</a></td>
+      <td><code>Prim's Algorithm</code></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
+    <tr>
+    <!-- Floyd Cycle Detection-->
+    <td><a href="./DSA/linkedList/FloydCycleDetection.cpp">Floyd's Cycle Detection</a></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
