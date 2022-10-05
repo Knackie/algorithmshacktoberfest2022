@@ -786,7 +786,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
         <!-- Greddy Algorithm -->
     <tr>
-      <td><a href="./algorithms/ar-grdy">Greddy Algorithm</a></td>
+      <td><a href="./algorithms/ar-grdy">Greedy Algorithm</a></td>
       <td><code>ar-grdy</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -917,10 +917,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
       <td class="text-center">Done</td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
     </tr>
      <tr>
       <td><a href="./algorithms">Amazon OA questions</a></td>
@@ -928,9 +925,6 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <!-- Amazon OA-->
       <td class="text-center"></td>
       <td class="text-center">Done</td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -953,8 +947,6 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
-    </tr>
     </tr>
     <!-- Do not be distracted - Brute Force-->
     <tr>
@@ -1015,8 +1007,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
     </tr>
     <!-- Greedy Implementation-->
-    <td><a href="./DSA">Greedy Implementation</a></td>
-      <td><code>Greedy</code></td>
+    <tr>
       <td><a href="./algorithms/prims-algo.c">Minimum Spanning Tree</a></td>
       <td><code>Prim's Algorithm</code></td>
       <td class="text-center">Done</td>
@@ -1035,6 +1026,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     <td><a href="./DSA/linkedList/FloydCycleDetection.cpp">Floyd's Cycle Detection</a></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
