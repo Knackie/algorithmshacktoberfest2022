@@ -68,7 +68,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     <tr>
       <td><a href="./algorithms/Searching">A* algorithm</a></td>
       <td><code>Searching</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -124,6 +124,21 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+     <!-- Bucket sort algorithm -->
+    <tr>
+      <td><a href="./DSA/sorting/bucket_sort.cpp">Bucket Sort</a></td>
+      <td><code>bucket_sort</code></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
     <!-- Breadth First search algorithm -->
     <tr>
       <td><a href="./algorithms/ar-bm">Boyer Moore's Algorithm</a></td>
@@ -145,7 +160,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><code>gr-bfsrh</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -163,7 +178,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
@@ -205,8 +220,8 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><code>gr-dfsrh</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
@@ -265,7 +280,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td><code>ar-isrt</code></td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
@@ -388,7 +403,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -411,9 +426,9 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     </tr>
     <!-- Min-Max algorithm -->
     <tr>
-      <td><a href="./algorithms">Min-Max algorithm</a></td>
+      <td><a href="./algorithms/ar-minmax">Min-Max algorithm</a></td>
       <td><code>algorithms</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -510,7 +525,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
@@ -551,9 +566,9 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -600,7 +615,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
@@ -702,6 +717,21 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
+        <!-- Bogosort -->
+    <tr>
+     <td><a href="./algorithms/ar-zfnc">Bogosort</a></td>
+      <td><code>Bogosort</code></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -833,7 +863,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     <tr>
      <td><a href="./algorithms/ar-Cpuschpr">CPU Scheduling Process</a></td>
       <td><code>ar-Cpuschpr</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -873,11 +903,14 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
-    <!-- Buy a shovel - Brute Force-->
-    <tr>
-      <td><a href="./DSA/brute force example">Buy a Shovel</a></td>
-      <td><code>Brute Force Algo</code></td>
+     <tr>
+      <td><a href="./algorithms">Amazon OA questions</a></td>
+      <td><code>Amazon OA questions</code></td>
+      <!-- Amazon OA-->
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
@@ -888,6 +921,25 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
+    <tr>
+     <td><a href="./algorithms/prims.c">Prims</a></td>
+      <td><code>Prims</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
     </tr>
     <!-- Do not be distracted - Brute Force-->
     <tr>
@@ -896,7 +948,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -934,9 +986,38 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
     </tr>
     <tr>
+      <td><a href="./DSA/FenwickTree">Fenwick Tree</a></td>
+      <td><code>Fenwick Tree</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
     <!-- Greedy Implementation-->
     <td><a href="./DSA">Greedy Implementation</a></td>
       <td><code>Greedy</code></td>
+      <td><a href="./algorithms/prims-algo.c">Minimum Spanning Tree</a></td>
+      <td><code>Prim's Algorithm</code></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
+    <tr>
+    <!-- Floyd Cycle Detection-->
+    <td><a href="./DSA/linkedList/FloydCycleDetection.cpp">Floyd's Cycle Detection</a></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
@@ -948,9 +1029,9 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       </tr>
-    <!-- Greedy Implementation-->
-    <td><a href="./DSA">Floyd's Triangle</a></td>
-      <td><code>floyds_triangle</code></td>
+     <!-- DNF Algorithm-->
+    <td><a href="./algorithms/Sorting_Algorithms">DNF Algo</a></td>
+      <td><code>DNF</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
@@ -962,6 +1043,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       </tr>
+    
   </tbody>
 </table>
 
