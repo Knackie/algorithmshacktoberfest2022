@@ -874,10 +874,9 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
-    <!-- Buy a shovel - Brute Force-->
     <tr>
-      <td><a href="./DSA/brute force example">Buy a Shovel</a></td>
-      <td><code>Brute Force Algo</code></td>
+     <td><a href="./algorithms/prims.c">Prims</a></td>
+      <td><code>Prims</code></td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
@@ -888,6 +887,8 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
     </tr>
     <!-- Do not be distracted - Brute Force-->
     <tr>
