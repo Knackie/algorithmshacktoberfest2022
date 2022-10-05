@@ -199,6 +199,21 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center">Done</td>
       <td class="text-center"></td>
     </tr>
+     <!-- Bucket sort algorithm -->
+    <tr>
+      <td> <a href="./DSA/sorting/bucket_sort.c">Bucket Sort</a></td>
+      <td><code>ar-bsrt</code></td>
+      <td class="text-center">Done</td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
     <!-- Coin change problem algorithm -->
     <tr>
       <td><a href="./algorithms/ar-cochprb">Coin Change Problem</a></td>
