@@ -709,6 +709,21 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
+        <!-- Bogosort -->
+    <tr>
+     <td><a href="./algorithms/ar-zfnc">Bogosort</a></td>
+      <td><code>Bogosort</code></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
     <!-- Red blacktree -->
     <tr>
       <td><a href="./algorithms/ar-rbtree">Red Blacktree</a></td>
