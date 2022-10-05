@@ -1,97 +1,76 @@
+package com.shantanu;
 
-import java.util.Random;
-import java.util.Scanner;
+// Java program for implementation of Heap Sort
+public class HeapSort
+{
+	public void sort(int arr[])
+	{
+		int n = arr.length;
 
-public class HeapSort {
-    static int count = 0;
+		// Build heap (rearrange array)
+		for (int i = n / 2 - 1; i >= 0; i--)
+			heapify(arr, n, i);
 
-    public static void main(String[] args) {
-//        Some random array
-        Scanner s = new Scanner(System.in);
-        System.out.println("Enter the elements of array");
-        int n = s.nextInt();
-        int[] a = new int[n];
-        System.out.println("Enter the elements one by one");
-        for (int i = 0; i < n; i++) a[i] = s.nextInt();
-        heapSort(a);
-        System.out.println("The sorted array is :");
-        for (int i : a) { System.out.print(i + " "); }
-        System.out.println("\nThe time taken is approx :" + count);
+		// One by one extract an element from heap
+		for (int i=n-1; i>=0; i--)
+		{
+			// Move current root to end
+			int temp = arr[0];
+			arr[0] = arr[i];
+			arr[i] = temp;
 
-//        Part 2
-        System.out.println("Part 2");
-        genAns();
-    }
+			// call max heapify on the reduced heap
+			heapify(arr, i, 0);
+		}
+	}
 
-    static void heapify(int[] a, int i, int e) {
-        int li = i;
-        if (2 * i + 1 <= e && a[li] < a[2 * i + 1]) {
-            li = 2 * i + 1;
-        }
-        if (2 * i + 2 <= e && a[li] < a[2 * i + 2]) {
-            li = 2 * i + 2;
-        }
-        count+=2;
-        if (li != i) {
+	// To heapify a subtree rooted with node i which is
+	// an index in arr[]. n is size of heap
+	void heapify(int arr[], int n, int i)
+	{
+		int largest = i; // Initialize largest as root
+		int l = 2*i + 1; // left = 2*i + 1
+		int r = 2*i + 2; // right = 2*i + 2
 
-            int t = a[li];
-            a[li] = a[i];
-            a[i] = t;
-            heapify(a, li, e);
+		// If left child is larger than root
+		if (l < n && arr[l] > arr[largest])
+			largest = l;
 
-        }
+		// If right child is larger than largest so far
+		if (r < n && arr[r] > arr[largest])
+			largest = r;
 
+		// If largest is not root
+		if (largest != i)
+		{
+			int swap = arr[i];
+			arr[i] = arr[largest];
+			arr[largest] = swap;
 
-    }
+			// Recursively heapify the affected sub-tree
+			heapify(arr, n, largest);
+		}
+	}
 
-    static void buildHeap(int[] a, int e) {
+	/* A utility function to print array of size n */
+	static void printArray(int arr[])
+	{
+		int n = arr.length;
+		for (int i=0; i<n; ++i)
+			System.out.print(arr[i]+" ");
+		System.out.println();
+	}
 
-        for (int i = (e - 1) / 2; i >= 0; i--) {
-            heapify(a, i, e);
+	// Driver program
+	public static void main(String args[])
+	{
+		int arr[] = {12, 11, 13, 5, 6, 7};
+		int n = arr.length;
 
-        }
+		HeapSort ob = new HeapSort();
+		ob.sort(arr);
 
-    }
-
-    static void heapSort(int[] a) {
-        buildHeap(a, a.length - 1);
-
-        for (int i = a.length - 1; i > 0; i--) {
-            int t = a[0];
-            a[0] = a[i];
-            a[i] = t;
-            heapify(a, 0, i - 1);
-        }
-
-    }
-
-    static void genAns() {
-        System.out.printf("%-15s%-15s%-15s%-15s%-15s\n", "Array Size", "Ascending", "Descending", "Random", "nlogn Value");
-        for (int i = 4; i <= 256; i *= 2) {
-            int[] asc = new int[i],
-                    des = new int[i],
-                    rand = new int[i];
-            Random r = new Random(4);
-//           Creating some random arrays ascending,descending and sorted respectively
-            for (int ind = 0; ind < i; ind++) {
-                asc[ind] = ind;
-                des[ind] = i - ind;
-                rand[ind] = r.nextInt();
-            }
-            count = 0;
-            heapSort(asc);
-            int ac = count;
-
-            count = 0;
-            heapSort(des);
-            int dc = count;
-
-            count = 0;
-            heapSort(rand);
-            int rn = count;
-          
-            int nlogn = i * (int) (Math.log10(i) / Math.log10(2));
-            System.out.printf("%-15s%-15s%-15s%-15s%-15s\n", i, ac, dc, rn, nlogn);
-        }
-    }
+		System.out.println("Sorted array is");
+		printArray(arr);
+	}
 }
