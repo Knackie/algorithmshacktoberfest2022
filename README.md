@@ -1043,6 +1043,20 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       </tr>
+      <!-- Dijkstra’s SPF -->
+    <td><a href="./algorithms/">Dijkstra-spf</a></td>
+      <td><code>Dijkstra-spf</code></td>
+      <td class="text-center"></td>
+      <td class="text-center">Done</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      </tr>
     
   </tbody>
 </table>
