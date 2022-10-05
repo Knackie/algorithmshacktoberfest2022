@@ -970,10 +970,10 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       </tr>
-    <!-- Greedy Implementation-->
-    <td><a href="./DSA">Floyd's Triangle</a></td>
-      <td><code>floyds_triangle</code></td>
-      <td class="text-center"></td>
+    <!-- Minimum Spanning Tree - Prim's Algorithm -->
+    <tr>
+      <td><a href="./algorithms/prims-algo.c">Minimum Spanning Tree</a></td>
+      <td><code>Prim's Algorithm</code></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -983,6 +983,8 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
+      <td class="text-center"></td>
+    </tr>
       </tr>
     <!-- Floyd Cycle Detection-->
     <td><a href="./DSA/linkedList/FloydCycleDetection.cpp">Floyd's Cycle Detection</a></td>
