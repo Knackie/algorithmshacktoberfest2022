@@ -1,6 +1,6 @@
-mport java.util.Scanner;  
+import java.util.Scanner;  
   
-public class SelectionSortExample  
+ class SelectionSortExample  
 {  
    public static void main(String args[])  
    {  
