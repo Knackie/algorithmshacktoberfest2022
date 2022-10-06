@@ -607,7 +607,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
     <tr>
       <td><a href="./algorithms/ar-slpsrt">Sleep Sort</a></td>
       <td><code>ar-slpsrt</code></td>
-      <td class="text-center"></td>
+      <td class="text-center">Done</td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center">Done</td>
@@ -704,7 +704,7 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center">Done</td>
       <td class="text-center"></td>
-      <td class="text-center">Done</td>  
+      <td class="text-center">Done</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
@@ -783,13 +783,13 @@ Make some algorithms in differents languages, about the issues. How it's work ?
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
-    
+
   </tbody>
 </table>
 
 # Issues
 follow this model
-    
+
 **_Added [XXX] algorithm in the good folder._**
-1. [x] added [XXX] algorithm. 
+1. [x] added [XXX] algorithm.
 2. [x] updated readme.
