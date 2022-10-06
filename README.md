@@ -10,7 +10,7 @@
 [![Validation](https://img.shields.io/github/workflow/status/benbarth/hacktoberfest-swag/Update%20README/master?logo=github&style=for-the-badge)](https://github.com/benbarth/hacktoberfest-swag/actions?query=workflow%3A"Update+README")
 
 You've come to the right place.
-
+## EXCLUED FROM HACKTOBERFEST
 </div>
 
 Make some algorithms in differents languages, about the issues. How it's work ?
